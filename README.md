@@ -24,6 +24,7 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 
 - Fully Convolutional Region Proposal Networks for Multispectral Person Detection, 2017, Daniel König et al.
 [[PDF](https://ieeexplore.ieee.org/abstract/document/8014770)]
+[[Code](https://github.com/HensoldtOptronicsCV/MultispectralPedestrianDetection)]
 
 - Unified Multi-spectral Pedestrian Detection Based on Probabilistic Fusion Networks, 2017, Kihong Park et al.
 [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320318300906)]
@@ -74,12 +75,14 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 - Borrow from Anywhere: Pseudo Multi-modal Object Detection in Thermal Imagery, 2019, Chaitanya Devaguptapu et al. [[PDF](https://arxiv.org/abs/1905.08789)]
 
 - Multispectral Fusion for Object Detection with Cyclic Fuse-and-Refine Blocks, ICIP 2020, Heng Zhang et al. [[PDF](https://hal.archives-ouvertes.fr/hal-02872132/file/icip2020.pdf)]
+[[Code](https://github.com/ZHANGHeng19931123/CFR)]
 
 - Improving Multispectral Pedestrian Detection by Addressing Modality Imbalance Problems, ECCV 2020, Kailai Zhou et al. [[PDF](https://arxiv.org/pdf/2008.03043.pdf)][[Code](https://github.com/CalayZhou/MBNet)]
 
 - Task-conditioned Domain Adaptation for Pedestrian Detection in Thermal Imagery, ECCV 2020, Kieu My et al. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670545.pdf)]
 
 - Anchor-free Small-scale Multispectral Pedestrian Detection, BMVC 2020, Alexander Wolpert et al. [[PDF](https://arxiv.org/abs/2008.08418)][[Code](https://github.com/HensoldtOptronicsCV/MultispectralPedestrianDetection)]
+[[Code](https://github.com/HensoldtOptronicsCV/MultispectralPedestrianDetection)]
 
 
 
