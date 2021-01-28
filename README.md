@@ -78,9 +78,13 @@ A list of resouces for multispectral pedestrian detection,including the datasets
 
 - Improving Multispectral Pedestrian Detection by Addressing Modality Imbalance Problems, ECCV 2020, Kailai Zhou et al. [[PDF](https://arxiv.org/pdf/2008.03043.pdf)][[Code](https://github.com/CalayZhou/MBNet)]
 
-- Task-conditioned Domain Adaptation for Pedestrian Detection in Thermal Imagery, ECCV 2020, Kieu My et al. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670545.pdf)]
+- Task-conditioned Domain Adaptation for Pedestrian Detection in Thermal Imagery, ECCV 2020, Kieu My et al. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670545.pdf)] [[Code](https://github.com/mrkieumy/task-conditioned)]
+
 
 - Anchor-free Small-scale Multispectral Pedestrian Detection, BMVC 2020, Alexander Wolpert et al. [[PDF](https://arxiv.org/abs/2008.08418)][[Code](https://github.com/HensoldtOptronicsCV/MultispectralPedestrianDetection)]
+
+- Guided Attentive Feature Fusion for Multispectral Pedestrian Detection, WACV2021, Heng Zhang et al.  [[PDF]](https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Guided_Attentive_Feature_Fusion_for_Multispectral_Pedestrian_Detection_WACV_2021_paper.pdf)
+[[Code]](https://github.com/ZHANGHeng19931123/GAFF)
 
 
 
